@@ -1,3 +1,5 @@
+<img src="media/gke-letsencrypt-certmanager-img.png" alt="wlink logo" width="1000"/>
+
 # gke-letsencrypt-certmanager
 
 Using [cert-manager](https://github.com/jetstack/cert-manager) and [Let's Encrypt](https://letsencrypt.org) on [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/).
