@@ -30,4 +30,4 @@ host app.example.com
 ```
 It should display you static ip
 
-[>>Install cert-manager](sampleapp.md)
+[>>Install sample app](sampleapp.md)

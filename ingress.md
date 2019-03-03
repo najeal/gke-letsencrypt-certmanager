@@ -34,4 +34,4 @@ You should see your static ip in the ADDRESS column.
 
 try to access you app through chrome or curl command curl http://app.example.com without HTTPS. You should succeed.
 
-[>> Configure CluterIssuer and Certificate](conf_cert-manager.md)
+[>> Install cert-manager](conf_cert-manager.md)
