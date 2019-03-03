@@ -58,7 +58,7 @@ During the 10 minutes, if you check the logs of your cert-manager
 ```
 kubectl logs -n cert-manager cert-manager-xxxxxxxxx
 ```
-You could see a lot of log like :
+You should see a lot of logs like :
 **could not reach 'http://app.example.com/.well-known/acme-challenge/XXXXXXXXXXXXXXXXXXXXXXX': wrong status code '404', expected '200'**
 
 When the certifiacte is obtain and valid, running the command
