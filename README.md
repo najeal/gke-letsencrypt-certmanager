@@ -1,6 +1,6 @@
 <img src="media/gke-letsencrypt-certmanager-img.png" alt="wlink logo" width="1000"/>
 
-# gke-letsencrypt-certmanager
+# gke letsencrypt cert-manager
 
 Using [cert-manager](https://github.com/jetstack/cert-manager) and [Let's Encrypt](https://letsencrypt.org) on [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/).
 Before starting, you must have:
@@ -13,4 +13,4 @@ Steps:
 - [deploy sample app](sampleapp.md)
 - [deploy Ingress](ingress.md)
 - [install cert-manager](conf_cert-manager.md) (the example use cert-manager-v0.6.6)
-- [configure CluterIssuer and Certificate](conf_ci_cert.md) ressources of cert-manger
+- [configure CluterIssuer and Certificate](conf_ci_cert.md) ressources of cert-manager
