@@ -76,4 +76,4 @@ When you get one more time the  **Certificate issued Successfully** in the event
 If you check in chrome or with curl command https://app.example.com you should not have any problem or warning.
 Note: You may have to restart your Ingress
 
-I hoped it helped !
+I hope it helped !
